@@ -75,11 +75,6 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 - **NLTK** for natural language processing.
 - **Scikit-learn** for machine learning algorithms.
@@ -90,5 +85,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Live 
 https://chatbotgit-bpmsfsifn5xe4ubudqzwgy.streamlit.app/
 
-Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
+
 
